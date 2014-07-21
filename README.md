@@ -1,7 +1,6 @@
 # The Sleeping Prince
 
-Grimm's tale retold gender-neutral.
-
+Grimm's tale retold in a gender-neutral way.
 
 ## Why
 
